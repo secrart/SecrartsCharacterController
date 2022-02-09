@@ -4,7 +4,7 @@ using UnityEngine;
 
 /*
 
----- Player Movement Script. Created by Secrart 2021. ----
+---- Player Movement Script. Created by Secrart 2022. ----
 
 
 The general plan for this was to obtain that quake/half-life "physical movement" feel. 
