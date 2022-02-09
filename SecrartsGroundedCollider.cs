@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// --Created by secrart 2022--
+
 public class SecrartsGroundedCollider : MonoBehaviour
 {
 
