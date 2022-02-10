@@ -1,5 +1,5 @@
 # SecrartsCharacterController
-A Unity character controller created by Secrart.
+An FPS Unity character controller created by Secrart.
 
 
 
